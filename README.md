@@ -1,8 +1,6 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=SeokMin,Lee&fontAlign=30&fontSize=30&textBg=true&desc=Turtle%20%20Developer&descAlign=60&descAlignY=50)
 
-<p align="center">
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrals2&show_icons=true&theme=synthwave)
-</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -15,9 +13,12 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/C#-FF69B4?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-green?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-important?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
 </p>
 
 <br><br>
@@ -29,5 +30,5 @@
 <br>
 
 <p align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrals2&count_bg=%23CCCD3A&title_bg=%23555555&icon=apacherocketmq.svg&icon_color=%23E3E711&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrals2&count_bg=%23BCBC12&title_bg=%23555555&icon=apacherocketmq.svg&icon_color=%23DFDB1D&title=Visitors&edge_flat=false"/></a>
 </p>
