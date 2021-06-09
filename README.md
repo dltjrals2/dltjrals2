@@ -1,6 +1,6 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=SeokMin,Lee&fontAlign=30&fontSize=30&textBg=true&desc=Turtle%20%20Developer&descAlign=60&descAlignY=50)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokMin's&show_icons=true&theme=merko)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrals2&show_icons=true&theme=synthwave)
+<br><br><br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
@@ -24,7 +23,7 @@
 <br><br>
 <h3 align="center">🐢  About Me 🐢</h3>
 <p align="center">
-  <a href="https://dltjrals2.github.io/"><img src="https://img.shields.io/badge/Git%20Blog-11B48A?style=flat-square&logo=Bloglovin&logoColor=white&link=https://dltjrals2.github.io/"/></a>&nbsp
+  <a href="https://dltjrals2.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://dltjrals2.github.io/"/></a>&nbsp
   <a href="mailto:boulah1023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boulah1023@gmail.com"/></a>
 </p>
 <br>
