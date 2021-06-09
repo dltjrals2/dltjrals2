@@ -1,6 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokMin's&show_icons=true&theme=merko)
-
-<br><br><br>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
